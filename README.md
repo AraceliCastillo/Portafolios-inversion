@@ -1,9 +1,7 @@
-# Portafolios-inversion
+﻿# Portafolios-inversion
 
 
 ## Portafolio
-
-Portafolio
 
     *Todos nosotros poseemos un portafolio o un conjunto de activos. Estos portafolios pueden contener activos reales (casa, carro, nevera, celular) o activos financieros (acciones, bonos u otros instrumentos).
 
